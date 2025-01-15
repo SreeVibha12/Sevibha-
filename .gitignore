@@ -1,0 +1,56 @@
+# Maven output directories
+/target/
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# Eclipse specific files
+/.settings/
+/.classpath
+/.project
+/.factorypath
+
+# IntelliJ IDEA specific files
+/.idea/
+/*.iml
+/out/
+
+# NetBeans specific files
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nbm/
+
+# VS Code specific files
+/.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Dependencies downloaded by Maven
+.m2/
+
+# Generated documentation
+/target/site/
+
+# Test output
+/surefire-reports/
+
+# Configuration files
+*.env
+*.properties
+
+# Others
+/.gradle/
